@@ -1,17 +1,17 @@
 {
-"name": "Moodle Mobile",
+"name": "I Educate Mobile",
 "license": {
     "name": "Apache 2.0",
     "link": "http://www.apache.org/licenses/LICENSE-2.0"
 },
 "credits": [
 {
-    "fullname": "Juan Leyva",
+    "fullname": "Stark Africa",
     "contribution": "Main developer",
-    "company": "CV&A Consulting"
+    "company": "Stark Africa"
 },
 {
-    "fullname": "Josep Maria Gifreu",
+    "fullname": "Abiud Ogechi",
     "contribution": "Icons and css fixes",
     "company": "CV&A Consulting"
 },
